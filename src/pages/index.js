@@ -7,22 +7,28 @@ export default function Home() {
                 <title>Scholarships</title>
             </Head>
 
+            <h1> test</h1>
             <h3>
                 <ol>
                     <li>
-                        some scholarship with a <a href="#link">link</a> to apply
+                        some scholarship with a <a href="#link">link</a> to
+                        apply
                     </li>
                     <li>
-                        some scholarship with a <a href="#link">link</a> to apply
+                        some scholarship with a <a href="#link">link</a> to
+                        apply
                     </li>
                     <li>
-                        some scholarship with a <a href="#link">link</a> to apply
+                        some scholarship with a <a href="#link">link</a> to
+                        apply
                     </li>
                     <li>
-                        some scholarship with a <a href="#link">link</a> to apply
+                        some scholarship with a <a href="#link">link</a> to
+                        apply
                     </li>
                     <li>
-                        some scholarship with a <a href="#link">link</a> to apply
+                        some scholarship with a <a href="#link">link</a> to
+                        apply
                     </li>
                 </ol>
             </h3>
